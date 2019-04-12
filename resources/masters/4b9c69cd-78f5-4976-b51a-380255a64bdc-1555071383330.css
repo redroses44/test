@@ -1,0 +1,24 @@
+#m-4b9c69cd-78f5-4976-b51a-380255a64bdc #m-4b9c69cd-Menu > svg {
+}
+#m-4b9c69cd-78f5-4976-b51a-380255a64bdc #m-4b9c69cd-Menu {
+  position: absolute;
+  width: 34px;
+  height: 36px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#m-4b9c69cd-78f5-4976-b51a-380255a64bdc #m-4b9c69cd-Menu > img, #m-4b9c69cd-78f5-4976-b51a-380255a64bdc #m-4b9c69cd-Menu > svg {
+  height: 36px;
+  width: 34px;
+  box-shadow: none;
+}
+#m-4b9c69cd-78f5-4976-b51a-380255a64bdc.master > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
